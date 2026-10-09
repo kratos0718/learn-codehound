@@ -6,7 +6,7 @@
 async def wait_for_service():
     while not ready():
         time.sleep(1)
-```
+``` 
 
 Nothing here looks wrong. It reads fine. It passes tests. It works perfectly when one person
 uses the app.
