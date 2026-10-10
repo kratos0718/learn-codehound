@@ -2,7 +2,7 @@
 
 ## `ast.walk` — visit every node
 
-```python
+```python 
 import ast
 
 tree = ast.parse(open("some_file.py").read())
